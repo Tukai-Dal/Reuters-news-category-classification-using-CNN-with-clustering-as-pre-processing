@@ -1,5 +1,5 @@
 # Reuters-news-category-classification-using-CNN-with-clustering-as-pre-processing
-# The project has a primary focus on two aspects of text classification:
+# The project has a focus on two important aspects of text classification:
 1. Feature Engineering 
 2. Enhancing Feature selection using concept from a recent published paper in a reputed Journal 
 #
