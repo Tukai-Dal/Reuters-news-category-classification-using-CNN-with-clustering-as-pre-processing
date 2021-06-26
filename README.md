@@ -1,4 +1,4 @@
-# Reuters-news-topic-classification-using-CNN-with-clustering-as-pre-processing
+# Reuters-news-topic-classification-using-CNN-with-enhanced-feature-extraction-and-clustering-as-pre-processing
 # The project has a focus on two important aspects of text classification:
 1. Feature Engineering 
 2. Enhancing Feature selection using concept from a recent published paper in a reputed journal 
